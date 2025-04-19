@@ -185,7 +185,7 @@ FROM (
 GROUP BY category;
 ```
 
-📈 Findings & Conclusion
+## 📈 Findings & Conclusion
 Content Distribution: The dataset contains a wide mix of movies and TV shows, with a dominance of certain genres and types.
 
 Regional Trends: India ranks among the top content-producing countries on Netflix.
@@ -196,7 +196,9 @@ Content Sensitivity: Text-based analysis helps to classify content as sensitive 
 
 Useful Insights: This analysis can help media strategists, content planners, and Netflix itself to optimize their platform and improve user targeting.
 
-✅ Tools Used
+---
+
+## ✅ Tools Used
 PostgreSQL / SQL
 
 Excel (for preprocessing)
